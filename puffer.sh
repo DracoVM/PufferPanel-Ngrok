@@ -1,7 +1,7 @@
 #!/bin/bash
 
 clear
-echo "     DRACOVM INSTALLER"
+echo "     DRACOVM INSTALLER (Modified DevBhai7's script)"
 echo "-------------------------------------"
 echo "1) Install Basic Packages"
 echo "2) PufferPanel"
